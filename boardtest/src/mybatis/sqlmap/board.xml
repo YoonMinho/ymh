@@ -63,7 +63,7 @@
 			NUM = #{num}
 	</select>
 	
-	<!-- 게시판 등록 -->
+	<!-- 게시판 등록1 -->
 	<insert id="insert">
 		INSERT INTO BOARD (
 			SUBJECT
